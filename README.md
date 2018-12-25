@@ -17,7 +17,7 @@ docker image list
 
 # Iniciar o Container em Background 
 ```sh
-docker run -d --name msc-eurekaserver --hosname msc-eurekaserver -p 8761:8761 msc-eurekaserver
+docker run -d --name msc-servicediscovery --hostname msc-servicediscovery -p 8761:8761 msc-servicediscovery
 ```
  
 License
