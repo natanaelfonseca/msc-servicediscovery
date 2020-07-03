@@ -5,7 +5,7 @@
 
 	<groupId>br.com.treinamento.scn</groupId>
 	<artifactId>msc-servicediscovery</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>Spring Cloud Eureka Server</name>
